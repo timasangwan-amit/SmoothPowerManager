@@ -14,7 +14,7 @@
 
 ### 🧠 **Smart Context Awareness**
 
-* Detects heavy applications (e.g., **COMSOL**, **MATLAB**, **Vivado**, **ANSYS**) and pre-boosts CPU performance.
+* Detects heavy applications (e.g., **COMSOL**, **MATLAB**, **Vivado**, **ANSYS**, **GAMES**, **Video_Editing**, You can add your own processes to this list) and pre-boosts CPU performance.
 * Lowers power draw automatically when the **display is off**, **system is locked**, or **running on battery**.
 
 ### 🎚️ **Polished Settings UI**
